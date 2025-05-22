@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"name": "Restatee",
+			"path": "."
+		},
+		{
+			"name": "assets",
+			"path": "../../../Moblie App (React Native)/Estate/assets"
+		}
+	],
+	"settings": {}
+}
