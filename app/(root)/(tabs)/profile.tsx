@@ -26,6 +26,7 @@ const SettingsItem = ({icon, title, onPress, textStyle, showArrow=true}: Setting
 )
 
 const profile = () => {
+  // eslint-disable-next-line react-hooks/rules-of-hooks
   const {user, refetch} = useGlobalContext();
   
   const handleLogout = async () => {
