@@ -1,4 +1,4 @@
-//import {Card, FeaturedCard } from "@/components/Card";
+import {Card, FeaturedCard } from "@/components/Card";
 import Search from "@/components/Search";
 import icons from "@/constants/icons";
 import images from "@/constants/images";
@@ -34,8 +34,8 @@ export default function Index() {
           </View>
         </View>
 
-        {/* <FeaturedCard/>
-        <Card/> */}
+        <FeaturedCard/>
+        <Card/>
       </View>
 
 
